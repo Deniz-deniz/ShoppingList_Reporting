@@ -1,0 +1,10 @@
+Shopping Lists and Report Application
+This app is a mobile Android App developed in java language.
+The main purpose of this app is to help users to create their own shopping lists with choosing date and categories.
+Allow users to rename or remove existing lists and mark them as done using checkboxes.
+For reporting part application must count total list and total items that marked as done.
+-------------------------------------------------------------------------------------------
+| Log Screen | Main Menu |Create List Screen |View List Screen |Report Screen |
+| :---: | :---: | :---: |
+| ![Log Screen](Log_page.png) | ![Main Menu](Main_page.png) | ![Create List Screen](createlist_page.png) | ![View List Screen](Viewlist_page.png) | ![Report Screen](report_page.png)|
+
