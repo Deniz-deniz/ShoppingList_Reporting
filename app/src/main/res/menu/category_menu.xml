@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cat_market"
+        android:title="Market" />
+
+    <item
+        android:id="@+id/cat_fashion"
+        android:title="Clothes" />
+
+    <item
+        android:id="@+id/cat_tech"
+        android:title="Technology" />
+
+    <item
+        android:id="@+id/cat_home"
+        android:title="Home Goods" />
+
+    <item
+        android:id="@+id/cat_other"
+        android:title="Others" />
+</menu>

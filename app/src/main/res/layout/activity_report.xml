@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_horizontal"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shopping Report"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:textColor="#040404"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#F5F5F5"
+        android:padding="15dp"
+        android:layout_marginBottom="20dp">
+
+        <TextView
+            android:id="@+id/tvReportContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Yükleniyor..."
+            android:textSize="18sp"
+            android:textColor="#333333"/>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnSetAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="REMIND ME TO SHOP"
+        android:textSize="12sp"
+        android:backgroundTint="#673AB7"
+        android:layout_marginBottom="10dp"
+        android:paddingLeft="20dp"/>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Back To Main Menu"
+        android:backgroundTint="#673AB7"/>
+
+</LinearLayout>
