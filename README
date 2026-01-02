@@ -6,5 +6,6 @@ For reporting part application must count total list and total items that marked
 -------------------------------------------------------------------------------------------
 | Log Screen | Main Menu |Create List Screen |View List Screen |Report Screen |
 | :---: | :---: | :---: || :---: || :---: |
-| ![Log Screen](Log_page.png) | ![Main Menu](Main_page.png) | ![Create List Screen](createlist_page.png) | ![View List Screen](Viewlist_page.png) | ![Report Screen](report_page.png)|
+| ![Log Screen](Log_page.png) | ![Main Menu](Main_page.png) | ![Create List Screen](createlist_page.png) |
+![View List Screen](Viewlist_page.png) | ![Report Screen](report_page.png)|
 
