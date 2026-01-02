@@ -4,8 +4,21 @@ The main purpose of this app is to help users to create their own shopping lists
 Allow users to rename or remove existing lists and mark them as done using checkboxes.
 For reporting part application must count total list and total items that marked as done.
 -------------------------------------------------------------------------------------------
-| Log Screen | Main Menu |Create List Screen |View List Screen |Report Screen |
-| :---: | :---: | :---: || :---: || :---: |
-| ![Log Screen](https://github.com/Deniz-deniz/ShoppingList_Reporting/blob/master/Log_page.png?raw=true) | ![Main Menu](Main_page.png) | ![Create List Screen](createlist_page.png) |
-![View List Screen](Viewlist_page.png) | ![Report Screen](report_page.png)|
+## Application Screenshots
+
+### Login Screen
+![Login Screen](screenshots/log_page.png)
+
+### Main Screen
+![Main Screen](screenshots/Main_page.png)
+
+### Create List
+![Create List Screen](screenshots/createlist_page.png)
+
+### View List Screen
+![View List Screen](screenshots/Viewlist_page.png)
+
+### Report Screen
+![Report Screen](screenshots/report_page.png)
+
 
